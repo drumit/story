@@ -1,1 +1,1 @@
-	This is the git, github, version control module.
+	This is the aliens, humans, space control module.
